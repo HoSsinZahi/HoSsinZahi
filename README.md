@@ -2,6 +2,10 @@
 
 # EL HOUSSINE ZAHI
 
+<p>
+  <strong>Building secure software, intelligent systems, and practical backend solutions.</strong>
+</p>
+
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=4DA3FF&center=true&vCenter=true&width=820&lines=Software+Engineer;Full-Stack+Developer;Backend+Developer;Cybersecurity+Enthusiast;AI+%26+Automation+Builder"
   alt="Typing animation"
@@ -18,9 +22,7 @@
 <p>
   <a href="https://hossinzahi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/HoSsinZahi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hossinzahi14@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#cv"><img src="https://img.shields.io/badge/CV-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
   <img src="https://komarev.com/ghpvc/?username=HoSsinZahi&style=for-the-badge&color=4DA3FF" alt="Visitor Counter" />
 </p>
 
@@ -30,10 +32,12 @@
 
 ## About Me
 
-- I build secure and modern web applications.
-- I work with React, Node.js, Express, PostgreSQL, JWT, and practical security concepts.
-- I am interested in OWASP, threat modeling, authentication, SOC/IDS, AI, and automation.
-- I am currently building a strong portfolio of real software and cybersecurity projects.
+I enjoy designing secure backend systems, building production-ready web applications, and applying cybersecurity principles to real projects. My current focus is strengthening backend engineering, authentication, OWASP security, threat modeling, and AI-assisted automation.
+
+- Based in Morocco.
+- Focused on backend, cybersecurity, and AI automation.
+- Building real portfolio projects with Node.js, React, PostgreSQL, JWT, Jest, and security concepts.
+- Open to internships, junior roles, and engineering cycle opportunities.
 
 ## Quick Facts
 
@@ -41,6 +45,29 @@
 - Focus: Backend, Cybersecurity, AI Automation
 - Current goal: Build stronger production-ready systems
 - Open to: internships, junior developer roles, cybersecurity learning opportunities
+
+## Languages
+
+- Arabic
+- French
+- English
+
+## Current Workbench
+
+- Secure authentication APIs with JWT and bcrypt
+- Threat modeling and risk scoring tools
+- OWASP-inspired backend security projects
+- Portfolio and GitHub profile optimization
+- AI and OCR automation experiments
+
+## Development Workflow
+
+- Understand the problem
+- Model risks and requirements
+- Build small working modules
+- Test critical flows
+- Document decisions
+- Improve and refactor
 
 ## Tech Stack
 
@@ -107,21 +134,44 @@
 
 ## Featured Projects
 
-<div>
-
-- [Portfolio](https://github.com/HoSsinZahi/portfolio) - Personal portfolio with SEO, GitHub Pages, responsive design, and project showcase.
-
-- [security-auth-testing](https://github.com/HoSsinZahi/security-auth-testing) - Secure authentication with bcrypt, JWT, and Jest tests.
-
-- [threat-modeling-refactor](https://github.com/HoSsinZahi/threat-modeling-refactor) - Refactored threat modeling project with risk scoring and security-first architecture.
-
-- [owasp-security-wiring-basics](https://github.com/HoSsinZahi/owasp-security-wiring-basics) - OWASP security controls, secure headers, validation, and JWT.
-
-- [crypto-validation-security-basics](https://github.com/HoSsinZahi/crypto-validation-security-basics) - Cryptography fundamentals with hashing, HMAC, JWT, and validation.
-
-- [Hossin-SOC-IDS](https://github.com/HoSsinZahi/Hossin-SOC-IDS) - SOC and IDS learning project with intrusion detection concepts.
-
-</div>
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/HoSsinZahi/portfolio">Portfolio</a></strong><br />
+      Personal portfolio with SEO, GitHub Pages, responsive design, and project showcase.<br />
+      <em>Focus:</em> Personal brand, responsive UI, deployment
+    </td>
+    <td>
+      <strong><a href="https://github.com/HoSsinZahi/security-auth-testing">security-auth-testing</a></strong><br />
+      Secure authentication with bcrypt, JWT, clean validation, and Jest tests.<br />
+      <em>Focus:</em> Authentication, test coverage, security basics
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/HoSsinZahi/threat-modeling-refactor">threat-modeling-refactor</a></strong><br />
+      Refactored threat modeling project with risk scoring and modular security logic.<br />
+      <em>Focus:</em> Threat modeling, architecture, risk analysis
+    </td>
+    <td>
+      <strong><a href="https://github.com/HoSsinZahi/owasp-security-wiring-basics">owasp-security-wiring-basics</a></strong><br />
+      OWASP-inspired security controls, secure headers, validation, and JWT.<br />
+      <em>Focus:</em> OWASP controls, backend hardening, validation
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/HoSsinZahi/crypto-validation-security-basics">crypto-validation-security-basics</a></strong><br />
+      Cryptography fundamentals with SHA-256, HMAC, JWT, and validation.<br />
+      <em>Focus:</em> Crypto basics, input validation, secure design
+    </td>
+    <td>
+      <strong><a href="https://github.com/HoSsinZahi/Hossin-SOC-IDS">Hossin-SOC-IDS</a></strong><br />
+      SOC and IDS learning project focused on intrusion detection concepts.<br />
+      <em>Focus:</em> Security monitoring, detection, Linux
+    </td>
+  </tr>
+</table>
 
 ## GitHub Analytics
 
@@ -159,6 +209,15 @@
   />
 </div>
 
+## Profile Summary Cards
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoSsinZahi&theme=github_dark"
+    alt="Profile Summary Cards"
+  />
+</div>
+
 ## 2026 Roadmap
 
 - Strengthen backend engineering.
@@ -174,27 +233,22 @@
 - Learning focus: JWT authentication
 - Learning focus: Cryptography basics
 - Learning focus: Security testing
+- Learning focus: SOC/IDS fundamentals
 
 ## Contact
 
 <p>
   <a href="https://hossinzahi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/HoSsinZahi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hossinzahi14@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#cv"><img src="https://img.shields.io/badge/CV-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
 </p>
 
 ## Snake Placeholder
 
-The contribution snake can be activated later with GitHub Actions.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HoSsinZahi/HoSsinZahi/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake placeholder" />
-</p>
+The contribution snake can be activated later with GitHub Actions once the workflow is configured.
 
 ---
 
 <p align="center">
-  Focused on building secure, modern, and practical software.
+  Building software that is secure, scalable, and practical.
 </p>
