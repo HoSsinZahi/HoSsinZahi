@@ -28,16 +28,15 @@
 
 </div>
 
----
+<hr style="border: none; border-top: 1px solid #1f3b63; margin: 18px 0 28px;" />
 
 ## About Me
 
 I enjoy designing secure backend systems, building production-ready web applications, and applying cybersecurity principles to real projects. My current focus is strengthening backend engineering, authentication, OWASP security, threat modeling, and AI-assisted automation.
 
-- Based in Morocco.
-- Focused on backend, cybersecurity, and AI automation.
-- Building real portfolio projects with Node.js, React, PostgreSQL, JWT, Jest, and security concepts.
-- Open to internships, junior roles, and engineering cycle opportunities.
+- Based in Morocco
+- Focused on backend, cybersecurity, and AI automation
+- Building real portfolio projects with Node.js, React, PostgreSQL, JWT, Jest, and security concepts
 
 ## Quick Facts
 
@@ -69,106 +68,148 @@ I enjoy designing secure backend systems, building production-ready web applicat
 - Document decisions
 - Improve and refactor
 
+## Development Principles
+
+- `🛡` Security First
+- `🏗` Clean Architecture
+- `🧪` Testing Before Deployment
+- `📚` Continuous Learning
+- `🚀` Production Mindset
+- `📝` Documentation Matters
+
 ## Tech Stack
 
-### Frontend
+<details open>
+<summary><strong>Frontend</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-1d3557?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1d3557?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-1d3557?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1d3557?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-1d3557?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-1d3557?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1d3557?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
+</details>
 
-### Backend
+<details>
+<summary><strong>Backend</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-1d3557?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-1d3557?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PHP-1d3557?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-1d3557?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-1d3557?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
+</details>
 
-### Databases
+<details>
+<summary><strong>Databases</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1d3557?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-1d3557?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-1d3557?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Prisma-1d3557?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
+</details>
 
-### Cybersecurity
+<details>
+<summary><strong>Cybersecurity</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/OWASP-4A5568?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/bcrypt-0F172A?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="bcrypt" />
-  <img src="https://img.shields.io/badge/Threat_Modeling-1F2937?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Threat Modeling" />
-  <img src="https://img.shields.io/badge/Pen_Testing_Basics-7C2D12?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Pen Testing Basics" />
-  <img src="https://img.shields.io/badge/Snort-1E40AF?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/OWASP-1d3557?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/JWT-1d3557?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/bcrypt-1d3557?style=flat-square&logo=letsencrypt&logoColor=white" alt="bcrypt" />
+  <img src="https://img.shields.io/badge/Threat_Modeling-1d3557?style=flat-square&logo=hackthebox&logoColor=white" alt="Threat Modeling" />
+  <img src="https://img.shields.io/badge/Pen_Testing_Basics-1d3557?style=flat-square&logo=kalilinux&logoColor=white" alt="Pen Testing Basics" />
+  <img src="https://img.shields.io/badge/Snort-1d3557?style=flat-square&logo=snort&logoColor=white" alt="Snort" />
+  <img src="https://img.shields.io/badge/Linux-1d3557?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
 </p>
+</details>
 
-### Tools
+<details>
+<summary><strong>AI & Automation</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/AI_Automation-1d3557?style=flat-square&logo=openai&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/OCR-1d3557?style=flat-square&logo=tesseract&logoColor=white" alt="OCR" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-1d3557?style=flat-square&logo=githubactions&logoColor=white" alt="Workflow Automation" />
 </p>
+</details>
 
-### AI & Automation
+<details>
+<summary><strong>Tools</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/AI_Automation-0F172A?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
-  <img src="https://img.shields.io/badge/OCR-1D4ED8?style=for-the-badge&logo=tesseract&logoColor=white" alt="OCR" />
-  <img src="https://img.shields.io/badge/Workflow_Automation-0EA5E9?style=for-the-badge&logo=githubactions&logoColor=white" alt="Workflow Automation" />
+  <img src="https://img.shields.io/badge/Git-1d3557?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1d3557?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-1d3557?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-1d3557?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/npm-1d3557?style=flat-square&logo=npm&logoColor=white" alt="npm" />
 </p>
+</details>
 
 ## Featured Projects
+
+### Enterprise Projects
 
 <table>
   <tr>
     <td>
+      <strong>EVOLEO Flow</strong><br />
+      Secure workflow and automation project designed around reliable backend execution and practical engineering patterns.<br />
+      <em>Main technologies:</em> Backend architecture, automation, secure workflows<br />
+      <em>Repository:</em> Private
+    </td>
+    <td>
       <strong><a href="https://github.com/HoSsinZahi/portfolio">Portfolio</a></strong><br />
       Personal portfolio with SEO, GitHub Pages, responsive design, and project showcase.<br />
-      <em>Focus:</em> Personal brand, responsive UI, deployment
-    </td>
-    <td>
-      <strong><a href="https://github.com/HoSsinZahi/security-auth-testing">security-auth-testing</a></strong><br />
-      Secure authentication with bcrypt, JWT, clean validation, and Jest tests.<br />
-      <em>Focus:</em> Authentication, test coverage, security basics
+      <em>Main technologies:</em> HTML, CSS, JavaScript, GitHub Pages<br />
+      <em>Repository:</em> <a href="https://github.com/HoSsinZahi/portfolio">View repository</a>
     </td>
   </tr>
+</table>
+
+### Cybersecurity Projects
+
+<table>
   <tr>
     <td>
-      <strong><a href="https://github.com/HoSsinZahi/threat-modeling-refactor">threat-modeling-refactor</a></strong><br />
-      Refactored threat modeling project with risk scoring and modular security logic.<br />
-      <em>Focus:</em> Threat modeling, architecture, risk analysis
-    </td>
-    <td>
-      <strong><a href="https://github.com/HoSsinZahi/owasp-security-wiring-basics">owasp-security-wiring-basics</a></strong><br />
+      <strong><a href="https://github.com/HoSsinZahi/owasp-security-wiring-basics">OWASP Security Wiring Basics</a></strong><br />
       OWASP-inspired security controls, secure headers, validation, and JWT.<br />
-      <em>Focus:</em> OWASP controls, backend hardening, validation
+      <em>Main technologies:</em> Node.js, Express, JWT, security headers<br />
+      <em>Repository:</em> <a href="https://github.com/HoSsinZahi/owasp-security-wiring-basics">View repository</a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/HoSsinZahi/crypto-validation-security-basics">Crypto Validation Security Basics</a></strong><br />
+      Cryptography fundamentals with SHA-256, HMAC, JWT, and validation.<br />
+      <em>Main technologies:</em> Node.js, cryptography, validation logic<br />
+      <em>Repository:</em> <a href="https://github.com/HoSsinZahi/crypto-validation-security-basics">View repository</a>
     </td>
   </tr>
   <tr>
     <td>
-      <strong><a href="https://github.com/HoSsinZahi/crypto-validation-security-basics">crypto-validation-security-basics</a></strong><br />
-      Cryptography fundamentals with SHA-256, HMAC, JWT, and validation.<br />
-      <em>Focus:</em> Crypto basics, input validation, secure design
+      <strong><a href="https://github.com/HoSsinZahi/security-auth-testing">Security Auth Testing</a></strong><br />
+      Secure authentication with bcrypt, JWT, clean validation, and Jest tests.<br />
+      <em>Main technologies:</em> Node.js, JWT, bcrypt, Jest<br />
+      <em>Repository:</em> <a href="https://github.com/HoSsinZahi/security-auth-testing">View repository</a>
     </td>
     <td>
-      <strong><a href="https://github.com/HoSsinZahi/Hossin-SOC-IDS">Hossin-SOC-IDS</a></strong><br />
+      <strong><a href="https://github.com/HoSsinZahi/threat-modeling-refactor">Threat Modeling Refactor</a></strong><br />
+      Refactored threat modeling project with risk scoring and modular security logic.<br />
+      <em>Main technologies:</em> Threat modeling, risk scoring, modular design<br />
+      <em>Repository:</em> <a href="https://github.com/HoSsinZahi/threat-modeling-refactor">View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong><a href="https://github.com/HoSsinZahi/Hossin-SOC-IDS">Hossin SOC IDS</a></strong><br />
       SOC and IDS learning project focused on intrusion detection concepts.<br />
-      <em>Focus:</em> Security monitoring, detection, Linux
+      <em>Main technologies:</em> Python, Linux, IDS concepts<br />
+      <em>Repository:</em> <a href="https://github.com/HoSsinZahi/Hossin-SOC-IDS">View repository</a>
     </td>
   </tr>
 </table>
@@ -218,22 +259,31 @@ I enjoy designing secure backend systems, building production-ready web applicat
   />
 </div>
 
-## 2026 Roadmap
+## Professional Goals
 
-- Strengthen backend engineering.
-- Build cybersecurity labs.
-- Improve system design.
-- Publish more real projects.
-- Prepare for engineering cycle opportunities.
+### 2026
+- Engineering Cycle
+- Backend Engineering
+- Cybersecurity Projects
 
-## Certifications and Learning
+### 2027
+- Cloud
+- DevOps
+- Open Source
 
-- Learning focus: OWASP basics
-- Learning focus: Threat modeling
-- Learning focus: JWT authentication
-- Learning focus: Cryptography basics
-- Learning focus: Security testing
-- Learning focus: SOC/IDS fundamentals
+### 2028
+- Security Engineering
+- Large Scale Systems
+
+## Currently Learning
+
+- Secure Backend Architecture
+- Advanced PostgreSQL
+- Docker
+- Linux Administration
+- SOC Operations
+- Threat Detection
+- AI Automation
 
 ## Contact
 
@@ -250,5 +300,6 @@ The contribution snake can be activated later with GitHub Actions once the workf
 ---
 
 <p align="center">
-  Building software that is secure, scalable, and practical.
+  Thanks for visiting my GitHub profile.<br />
+  Building secure, scalable and production-ready software.
 </p>
