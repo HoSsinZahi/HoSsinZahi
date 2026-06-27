@@ -24,7 +24,7 @@
 
 ## About Me
 
-I am a Software Engineer focused on backend development, secure web applications, and practical cybersecurity. I build with React, Node.js, PostgreSQL, JWT, and security-driven patterns, while continuing to grow in automation and AI-assisted workflows.
+I am a Software Engineer focused on backend development, secure web applications, and practical cybersecurity. I build with React, Node.js, PostgreSQL, JWT, and security-driven patterns, while continuing to grow in automation and AI learning.
 
 - Software engineering with a backend-first mindset
 - Security-focused work around OWASP, authentication, and threat modeling
@@ -32,29 +32,86 @@ I am a Software Engineer focused on backend development, secure web applications
 
 ## Languages
 
-| Language | Level |
-| --- | --- |
-| Arabic | Native |
-| French | Professional |
-| English | Technical |
+- Arabic - Native
+- French - Professional
+- English - Technical
+
+## Tech Stack
+
+<details open>
+<summary><strong>Frontend</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" alt="Frontend skills" />
+</p>
+</details>
+
+<details>
+<summary><strong>Backend</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,python&theme=dark" alt="Backend skills" />
+</p>
+</details>
+
+<details>
+<summary><strong>Databases</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma&theme=dark" alt="Database skills" />
+</p>
+</details>
+
+<details>
+<summary><strong>DevOps & Tools</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm&theme=dark" alt="DevOps and tools" />
+</p>
+</details>
+
+<details>
+<summary><strong>Cybersecurity</strong></summary>
+
+<p>
+  <img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth-0D1117?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth" />
+  <img src="https://img.shields.io/badge/Snort-0D1117?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/IDS-0D1117?style=for-the-badge&logo=suricata&logoColor=white" alt="IDS" />
+  <img src="https://img.shields.io/badge/Network_Security-0D1117?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
+</p>
+</details>
+
+<details>
+<summary><strong>AI & Automation</strong></summary>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+</p>
+</details>
 
 ## Featured Projects
 
-### Enterprise & Portfolio
+### Enterprise Projects
 
 <table>
   <tr>
     <td>
       <strong>EVOLEO Flow</strong><br />
-      <em>Description:</em> Secure workflow and automation project<br />
-      <em>Tech / Focus:</em> Backend architecture, workflow automation, secure execution<br />
-      <em>Status:</em> Private repository<br />
-      <em>Repository:</em> Private
+      Secure workflow and automation project.<br />
+      <em>Main technologies:</em> Backend architecture, workflow automation, secure execution<br />
+      <em>Status:</em> Private Repository<br />
+      <em>Repository:</em> <strong>Private Repository</strong>
     </td>
     <td>
       <strong><a href="https://github.com/HoSsinZahi/portfolio">Portfolio</a></strong><br />
-      <em>Description:</em> Personal portfolio with SEO, responsive design, and project showcase<br />
-      <em>Tech / Focus:</em> HTML, CSS, JavaScript, GitHub Pages<br />
+      Personal portfolio with SEO, responsive design, and project showcase.<br />
+      <em>Main technologies:</em> HTML, CSS, JavaScript, GitHub Pages<br />
       <em>Status:</em> Live<br />
       <em>Repository:</em> <a href="https://github.com/HoSsinZahi/portfolio">View repository</a>
     </td>
@@ -67,15 +124,15 @@ I am a Software Engineer focused on backend development, secure web applications
   <tr>
     <td>
       <strong><a href="https://github.com/HoSsinZahi/security-auth-testing">Security Auth Testing</a></strong><br />
-      <em>Description:</em> Secure authentication with bcrypt, JWT, validation, and tests<br />
-      <em>Tech / Focus:</em> Node.js, JWT, bcrypt, Jest<br />
+      Secure authentication with bcrypt, JWT, validation, and tests.<br />
+      <em>Main technologies:</em> Node.js, JWT, bcrypt, Jest<br />
       <em>Status:</em> Active learning project<br />
       <em>Repository:</em> <a href="https://github.com/HoSsinZahi/security-auth-testing">View repository</a>
     </td>
     <td>
       <strong><a href="https://github.com/HoSsinZahi/threat-modeling-refactor">Threat Modeling Refactor</a></strong><br />
-      <em>Description:</em> Refactored threat modeling project with risk scoring and modular security logic<br />
-      <em>Tech / Focus:</em> Threat modeling, risk scoring, security architecture<br />
+      Refactored threat modeling project with risk scoring and modular security logic.<br />
+      <em>Main technologies:</em> Threat modeling, risk scoring, security architecture<br />
       <em>Status:</em> Active learning project<br />
       <em>Repository:</em> <a href="https://github.com/HoSsinZahi/threat-modeling-refactor">View repository</a>
     </td>
@@ -83,15 +140,15 @@ I am a Software Engineer focused on backend development, secure web applications
   <tr>
     <td>
       <strong><a href="https://github.com/HoSsinZahi/owasp-security-wiring-basics">OWASP Security Wiring Basics</a></strong><br />
-      <em>Description:</em> OWASP-inspired backend security controls, validation, and headers<br />
-      <em>Tech / Focus:</em> Node.js, Express, JWT, secure headers<br />
+      OWASP-inspired backend security controls, validation, and headers.<br />
+      <em>Main technologies:</em> Node.js, Express, JWT, secure headers<br />
       <em>Status:</em> Active learning project<br />
       <em>Repository:</em> <a href="https://github.com/HoSsinZahi/owasp-security-wiring-basics">View repository</a>
     </td>
     <td>
       <strong><a href="https://github.com/HoSsinZahi/crypto-validation-security-basics">Crypto Validation Security Basics</a></strong><br />
-      <em>Description:</em> Cryptography fundamentals with hashing, HMAC, JWT, and validation<br />
-      <em>Tech / Focus:</em> Node.js, cryptography, validation logic<br />
+      Cryptography fundamentals with hashing, HMAC, JWT, and validation.<br />
+      <em>Main technologies:</em> Node.js, cryptography, validation logic<br />
       <em>Status:</em> Active learning project<br />
       <em>Repository:</em> <a href="https://github.com/HoSsinZahi/crypto-validation-security-basics">View repository</a>
     </td>
@@ -99,8 +156,8 @@ I am a Software Engineer focused on backend development, secure web applications
   <tr>
     <td colspan="2">
       <strong><a href="https://github.com/HoSsinZahi/Hossin-SOC-IDS">Hossin SOC IDS</a></strong><br />
-      <em>Description:</em> SOC and IDS learning project focused on intrusion detection concepts<br />
-      <em>Tech / Focus:</em> Python, Linux, IDS concepts<br />
+      SOC and IDS learning project focused on intrusion detection concepts.<br />
+      <em>Main technologies:</em> Python, Linux, IDS concepts<br />
       <em>Status:</em> Active learning project<br />
       <em>Repository:</em> <a href="https://github.com/HoSsinZahi/Hossin-SOC-IDS">View repository</a>
     </td>
@@ -113,10 +170,10 @@ I am a Software Engineer focused on backend development, secure web applications
   <tr>
     <td>
       <strong>AI and OCR Automation Experiments</strong><br />
-      <em>Description:</em> Small experiments focused on AI-assisted automation and document workflows<br />
-      <em>Tech / Focus:</em> AI automation, OCR, workflow automation<br />
+      Small experiments focused on AI-assisted automation and document workflows.<br />
+      <em>Main technologies:</em> AI automation, OCR, workflow automation<br />
       <em>Status:</em> Private experiments<br />
-      <em>Repository:</em> Private
+      <em>Repository:</em> Private Repository
     </td>
   </tr>
 </table>
@@ -158,94 +215,37 @@ I am a Software Engineer focused on backend development, secure web applications
 </div>
 
 <details>
-<summary><strong>Tech Stack</strong></summary>
-
-### Frontend
+<summary><strong>Current Learning</strong></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" alt="Frontend skills" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,python" alt="Backend skills" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma" alt="Database skills" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm" alt="DevOps and tools" />
-</p>
-
-### Cybersecurity
-
-<p>
-  <img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/OAuth-0D1117?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth" />
-  <img src="https://img.shields.io/badge/Snort-0D1117?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
-  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/IDS-0D1117?style=for-the-badge&logo=suricata&logoColor=white" alt="IDS" />
-  <img src="https://img.shields.io/badge/Network_Security-0D1117?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
-</p>
-
-### AI & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+  Backend Architecture, OWASP, Cybersecurity, AI Automation, React, and Node.js.
 </p>
 </details>
 
 <details>
 <summary><strong>Development Workflow</strong></summary>
 
-- Understand the problem
-- Model risks and requirements
-- Build small working modules
-- Test critical flows
-- Document decisions
-- Improve and refactor
-</details>
-
-<details>
-<summary><strong>Currently Learning</strong></summary>
-
-- Backend Architecture
-- Cybersecurity
-- OWASP
-- Secure Authentication
-- AI Automation
-- Node.js
-- React
+<p align="center">
+  Idea<br />
+  &darr;<br />
+  Architecture<br />
+  &darr;<br />
+  Development<br />
+  &darr;<br />
+  Testing<br />
+  &darr;<br />
+  Deployment
+</p>
 </details>
 
 <details>
 <summary><strong>Professional Goals</strong></summary>
 
-### 2026
 - Build production-ready applications
-- Strengthen cybersecurity knowledge
-- Master backend engineering
+- Improve backend engineering
+- Strengthen cybersecurity
+- Learn advanced AI automation
 - Contribute to open source
-- Earn cybersecurity certifications
-</details>
-
-<details>
-<summary><strong>Toolbox</strong></summary>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,githubactions,bash,ubuntu,windows,notion" alt="Toolbox" />
-</p>
 </details>
 
 ## Contact
