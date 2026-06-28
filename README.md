@@ -15,11 +15,11 @@
 
 <br/>
 
-`Morocco` &nbsp;
-`Backend Engineer` &nbsp;
-`Cybersecurity` &nbsp;
-`AI Automation` &nbsp;
-`Open to opportunities`
+`🇲🇦 Morocco` &nbsp;
+`⚙️ Backend Engineer` &nbsp;
+`🛡️Cybersecurity` &nbsp;
+`🤖AI Automation` &nbsp;
+`🚀Open to opportunities`
 
 </div>
 
