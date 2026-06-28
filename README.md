@@ -349,7 +349,7 @@ MA &nbsp;**Arabic** - Native &nbsp;&nbsp;&nbsp;&nbsp; FR &nbsp;**French** - Prof
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF)](https://hossinzahi.github.io/portfolio/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hossin-zahi-409975349)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossin-zahi-409975349)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hossinzahi14@gmail.com)
 
 </div>
