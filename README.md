@@ -15,7 +15,11 @@
 
 <br/>
 
-<sub><code>Morocco</code> &nbsp; <code>Backend Engineer</code> &nbsp; <code>Cybersecurity</code> &nbsp; <code>AI Automation</code> &nbsp; <code>Open to opportunities</code></sub>
+`Morocco` &nbsp;
+`Backend Engineer` &nbsp;
+`Cybersecurity` &nbsp;
+`AI Automation` &nbsp;
+`Open to opportunities`
 
 </div>
 
