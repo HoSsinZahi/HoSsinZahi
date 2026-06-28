@@ -351,7 +351,7 @@ MA &nbsp;**Arabic** - Native &nbsp;&nbsp;&nbsp;&nbsp; FR &nbsp;**French** - Prof
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF)](https://hossinzahi.github.io/portfolio/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117)](https://www.linkedin.com/in/hossin-zahi-409975349)&nbsp;
+<a href="https://www.linkedin.com/in/hossin-zahi-409975349"><kbd>💼 LINKEDIN</kbd></a>&nbsp;
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hossinzahi14@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=HoSsinZahi&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)
 
