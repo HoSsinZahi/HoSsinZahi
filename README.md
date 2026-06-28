@@ -9,13 +9,13 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF)](https://hossinzahi.github.io/portfolio/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoSsinZahi)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hossin-zahi-409975349)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hossinzahi14@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=HoSsinZahi&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)
 
 <br/>
 
-`📍 Morocco` &nbsp; `💼 Backend Engineer` &nbsp; `🛡 Cybersecurity` &nbsp; `🤖 AI Automation` &nbsp; `🎯 Open to opportunities`
+`Morocco` &nbsp; `Backend Engineer` &nbsp; `Cybersecurity` &nbsp; `AI Automation` &nbsp; `Open to opportunities`
 
 </div>
 
@@ -25,13 +25,13 @@
 
 ## About
 
-I engineer backend systems with security at their core — not layered on top.
+I engineer backend systems with security at their core, not layered on top.
 Every service I build is designed around authentication integrity, threat awareness, and operational reliability.
 
-- 🔧 &nbsp;**Secure APIs** — Node.js, Express, PostgreSQL, JWT, bcrypt, input validation
-- 🛡 &nbsp;**Cybersecurity** — OWASP Top 10, threat modeling, IDS/SOC fundamentals, auth hardening
-- 🤖 &nbsp;**Automation** — n8n workflow orchestration, OCR pipelines, AI-assisted tooling
-- 📐 &nbsp;**Engineering mindset** — modular architecture, test-driven development, clean code
+- `Secure APIs` - Node.js, Express, PostgreSQL, JWT, bcrypt, input validation
+- `Cybersecurity` - OWASP Top 10, threat modeling, IDS/SOC fundamentals, auth hardening
+- `Automation` - n8n workflow orchestration, OCR pipelines, AI-assisted tooling
+- `Engineering mindset` - modular architecture, test-driven development, clean code
 
 <br/>
 
@@ -43,10 +43,10 @@ Every service I build is designed around authentication integrity, threat awaren
 
 | Area | Focus |
 |:---|:---|
-| 🔐 &nbsp;**Security** | OWASP hardening, secure auth patterns, network intrusion detection |
-| 🏗 &nbsp;**Architecture** | Modular backend design, API security, event-driven patterns |
-| 🤖 &nbsp;**AI Automation** | Building real automation pipelines with n8n and OpenAI |
-| 🧪 &nbsp;**Testing** | Unit and integration testing for security-critical flows |
+| `Security` | OWASP hardening, secure auth patterns, network intrusion detection |
+| `Architecture` | Modular backend design, API security, event-driven patterns |
+| `AI Automation` | Building real automation pipelines with n8n and OpenAI |
+| `Testing` | Unit and integration testing for security-critical flows |
 
 </div>
 
@@ -112,12 +112,12 @@ Every service I build is designed around authentication integrity, threat awaren
 
 <br/>
 
-### 🏢 Enterprise
+### Enterprise
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔒 EVOLEO Flow</h3>
+      <h3>EVOLEO Flow</h3>
       <p>Secure workflow automation platform built around hardened backend architecture and orchestrated execution pipelines.</p>
       <br/>
       <p>
@@ -127,11 +127,11 @@ Every service I build is designed around authentication integrity, threat awaren
       </p>
       <img src="https://img.shields.io/badge/Status-Private-555555?style=flat-square" />
       <br/><br/>
-      <strong>🔒 Private Repository</strong>
+      <strong>Private Repository</strong>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HoSsinZahi/portfolio">Portfolio</a></h3>
-      <p>Personal engineering portfolio with full SEO optimization, responsive design, and live project showcase on GitHub Pages.</p>
+      <h3><a href="https://hossinzahi.github.io/portfolio/">Portfolio</a></h3>
+      <p>Personal engineering portfolio with SEO optimization, responsive design, and a live project showcase on GitHub Pages.</p>
       <br/>
       <p>
         <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34C26" />
@@ -140,101 +140,82 @@ Every service I build is designed around authentication integrity, threat awaren
       </p>
       <img src="https://img.shields.io/badge/Status-Live-2EA44F?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/HoSsinZahi/portfolio"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-      &nbsp;
-      <a href="https://hossinzahi.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF" /></a>
+      <a href="https://hossinzahi.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Site-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF" /></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 🛡 Cybersecurity Labs
+### Cybersecurity Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HoSsinZahi/security-auth-testing">Security Auth Testing</a></h3>
-      <p>Production-grade authentication system — bcrypt, JWT, schema validation, and comprehensive Jest unit tests.</p>
+      <h3><a href="https://github.com/HoSsinZahi/automated-threat-modeling-security">Automated Threat Modeling Security</a></h3>
+      <p>STRIDE threat modeling, risk scoring, mitigations, JSON reports, and Jest tests.</p>
       <br/>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=68A063" />
-        <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/bcrypt-0D1117?style=flat-square&logo=letsencrypt&logoColor=white" />
+        <img src="https://img.shields.io/badge/STRIDE-0D1117?style=flat-square&logo=hackthebox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Risk_Scoring-0D1117?style=flat-square" />
         <img src="https://img.shields.io/badge/Jest-0D1117?style=flat-square&logo=jest&logoColor=C21325" />
       </p>
       <img src="https://img.shields.io/badge/Status-Active-4DA3FF?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/HoSsinZahi/security-auth-testing"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/HoSsinZahi/automated-threat-modeling-security"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HoSsinZahi/threat-modeling-refactor">Threat Modeling Refactor</a></h3>
-      <p>Quantitative threat modeling with modular risk scoring logic and security architecture patterns.</p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=68A063" />
-        <img src="https://img.shields.io/badge/Threat_Modeling-0D1117?style=flat-square&logo=hackerone&logoColor=white" />
-        <img src="https://img.shields.io/badge/Risk_Scoring-0D1117?style=flat-square&logo=shield&logoColor=white" />
-      </p>
-      <img src="https://img.shields.io/badge/Status-Active-4DA3FF?style=flat-square" />
-      <br/><br/>
-      <a href="https://github.com/HoSsinZahi/threat-modeling-refactor"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HoSsinZahi/owasp-security-wiring-basics">OWASP Security Wiring</a></h3>
-      <p>OWASP Top 10 controls implemented in Express — secure headers, rate limiting, input sanitization, and auth hardening.</p>
+      <h3><a href="https://github.com/HoSsinZahi/owasp-security-hardening">OWASP Security Hardening</a></h3>
+      <p>Auth, JWT, RBAC, validation, headers, rate limiting, audit logs, and a security score.</p>
       <br/>
       <p>
         <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/OWASP-0D1117?style=flat-square&logo=owasp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=68A063" />
+        <img src="https://img.shields.io/badge/Audit_Logs-0D1117?style=flat-square&logo=githubactions&logoColor=white" />
       </p>
       <img src="https://img.shields.io/badge/Status-Active-4DA3FF?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/HoSsinZahi/owasp-security-wiring-basics"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HoSsinZahi/crypto-validation-security-basics">Crypto Validation Basics</a></h3>
-      <p>Cryptography fundamentals — HMAC, hashing algorithms, JWT verification, and secure input validation pipelines.</p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=68A063" />
-        <img src="https://img.shields.io/badge/HMAC-0D1117?style=flat-square&logo=letsencrypt&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      </p>
-      <img src="https://img.shields.io/badge/Status-Active-4DA3FF?style=flat-square" />
-      <br/><br/>
-      <a href="https://github.com/HoSsinZahi/crypto-validation-security-basics"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/HoSsinZahi/owasp-security-hardening"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/HoSsinZahi/Hossin-SOC-IDS">Hossin SOC / IDS</a></h3>
-      <p>Security Operations Center and Intrusion Detection System lab — network monitoring, detection rules, and alerting concepts on Linux.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HoSsinZahi/cryptography-scale-security">Cryptography Scale Security</a></h3>
+      <p>AES-256-GCM, HMAC-SHA256, JWT, key rotation, password policy, and crypto audit coverage.</p>
       <br/>
       <p>
-        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
-        <img src="https://img.shields.io/badge/Snort_IDS-0D1117?style=flat-square&logo=snort&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7" />
+        <img src="https://img.shields.io/badge/AES--256--GCM-0D1117?style=flat-square" />
+        <img src="https://img.shields.io/badge/HMAC--SHA256-0D1117?style=flat-square" />
+        <img src="https://img.shields.io/badge/Key_Rotation-0D1117?style=flat-square" />
       </p>
       <img src="https://img.shields.io/badge/Status-Active-4DA3FF?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/HoSsinZahi/Hossin-SOC-IDS"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/HoSsinZahi/cryptography-scale-security"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HoSsinZahi/secure-pen-testing-security">Secure Pen Testing Security</a></h3>
+      <p>Safe mock penetration testing, vulnerability scanning, reports, risk scoring, and Jest/Supertest.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/Vulnerability_Scanning-0D1117?style=flat-square&logo=hackthebox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supertest-0D1117?style=flat-square&logo=jest&logoColor=C21325" />
+        <img src="https://img.shields.io/badge/Risk_Scoring-0D1117?style=flat-square" />
+      </p>
+      <img src="https://img.shields.io/badge/Status-Active-4DA3FF?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/HoSsinZahi/secure-pen-testing-security"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 🤖 Automation & Learning
+### Automation & Learning
 
 <table>
   <tr>
     <td valign="top">
-      <h3>🔒 AI & OCR Automation Experiments</h3>
+      <h3>AI & OCR Automation Experiments</h3>
       <p>Private research into AI-assisted document processing, OCR extraction pipelines, and n8n workflow automation.</p>
       <br/>
       <p>
@@ -244,7 +225,7 @@ Every service I build is designed around authentication integrity, threat awaren
       </p>
       <img src="https://img.shields.io/badge/Status-Private-555555?style=flat-square" />
       <br/><br/>
-      <strong>🔒 Private Repository</strong>
+      <strong>Private Repository</strong>
     </td>
   </tr>
 </table>
@@ -257,7 +238,7 @@ Every service I build is designed around authentication integrity, threat awaren
 
 <div align="center">
 
-> *Security is not a feature — it is the foundation.*
+> *Security is not a feature - it is the foundation.*
 
 </div>
 
@@ -274,12 +255,12 @@ I approach every project by modeling its risks before writing a single line of c
 <div align="center">
 
 ```
-💡 Idea          →    Define the problem and its attack surface
-🏗 Architecture  →    Design modules, data flows, and security boundaries
-🔨 Development   →    Build incrementally with clean, readable code
-🧪 Testing       →    Validate critical paths, edge cases, and auth flows
-🚀 Deployment    →    Ship with confidence and proper configuration
-📊 Maintenance   →    Monitor, iterate, and harden continuously
+Idea          ->    Define the problem and its attack surface
+Architecture  ->    Design modules, data flows, and security boundaries
+Development   ->    Build incrementally with clean, readable code
+Testing       ->    Validate critical paths, edge cases, and auth flows
+Deployment    ->    Ship with confidence and proper configuration
+Maintenance   ->    Monitor, iterate, and harden continuously
 ```
 
 </div>
@@ -288,35 +269,35 @@ I approach every project by modeling its risks before writing a single line of c
 
 ---
 
-## Roadmap — 2026
+## Roadmap - 2026
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🔧 Backend</h3>
+      <h3>Backend</h3>
       <p>Ship production-grade systems with clean architecture, full test coverage, and zero-trust security posture.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🛡 Cybersecurity</h3>
+      <h3>Cybersecurity</h3>
       <p>Earn a recognized certification, advance in penetration testing basics, and contribute to security tooling.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>☁️ Cloud</h3>
+      <h3>Cloud</h3>
       <p>Learn cloud deployment fundamentals, container orchestration, and infrastructure-as-code patterns.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3>🤖 AI Automation</h3>
+      <h3>AI Automation</h3>
       <p>Deploy real AI pipelines into production workflows and build automation tools with measurable business value.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🌐 Open Source</h3>
+      <h3>Open Source</h3>
       <p>Contribute to security libraries, backend frameworks, and developer tools used by real engineering teams.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>✨ Excellence</h3>
-      <p>Raise standards across every project — documentation, API design, code quality, and delivery reliability.</p>
+      <h3>Excellence</h3>
+      <p>Raise standards across every project - documentation, API design, code quality, and delivery reliability.</p>
     </td>
   </tr>
 </table>
@@ -355,7 +336,7 @@ I approach every project by modeling its risks before writing a single line of c
 
 <div align="center">
 
-🇲🇦 &nbsp;**Arabic** — Native &nbsp;&nbsp;&nbsp;&nbsp; 🇫🇷 &nbsp;**French** — Professional &nbsp;&nbsp;&nbsp;&nbsp; 🇬🇧 &nbsp;**English** — Technical
+MA &nbsp;**Arabic** - Native &nbsp;&nbsp;&nbsp;&nbsp; FR &nbsp;**French** - Professional &nbsp;&nbsp;&nbsp;&nbsp; GB &nbsp;**English** - Technical
 
 </div>
 
@@ -368,7 +349,7 @@ I approach every project by modeling its risks before writing a single line of c
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF)](https://hossinzahi.github.io/portfolio/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoSsinZahi)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hossin-zahi-409975349)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hossinzahi14@gmail.com)
 
 </div>
@@ -378,5 +359,5 @@ I approach every project by modeling its risks before writing a single line of c
 ---
 
 <div align="center">
-<sub>Building secure, scalable, and practical software — one commit at a time.</sub>
+<sub>Building secure, scalable, and practical software - one commit at a time.</sub>
 </div>
