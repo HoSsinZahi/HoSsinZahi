@@ -15,7 +15,7 @@
 
 <br/>
 
-`🇲🇦 Morocco` &nbsp;
+`📍 Morocco` &nbsp;
 `⚙️ Backend Engineer` &nbsp;
 `🛡️Cybersecurity` &nbsp;
 `🤖AI Automation` &nbsp;
