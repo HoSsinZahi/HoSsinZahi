@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF)](https://hossinzahi.github.io/portfolio/)&nbsp;
-[<img src="https://raw.githubusercontent.com/HoSsinZahi/HoSsinZahi/main/assets/linkedin-badge.svg" alt="LinkedIn" />](https://www.linkedin.com/in/hossin-zahi-409975349)&nbsp;
+<a href="https://www.linkedin.com/in/hossin-zahi-409975349"><img src="https://raw.githubusercontent.com/HoSsinZahi/HoSsinZahi/main/assets/linkedin-badge.svg" alt="LinkedIn" /></a>&nbsp;
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hossinzahi14@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=HoSsinZahi&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)
 
@@ -349,7 +349,7 @@ MA &nbsp;**Arabic** - Native &nbsp;&nbsp;&nbsp;&nbsp; FR &nbsp;**French** - Prof
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF)](https://hossinzahi.github.io/portfolio/)&nbsp;
-[<img src="https://raw.githubusercontent.com/HoSsinZahi/HoSsinZahi/main/assets/linkedin-badge.svg" alt="LinkedIn" />](https://www.linkedin.com/in/hossin-zahi-409975349)
+<a href="https://www.linkedin.com/in/hossin-zahi-409975349"><img src="https://raw.githubusercontent.com/HoSsinZahi/HoSsinZahi/main/assets/linkedin-badge.svg" alt="LinkedIn" /></a>
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hossinzahi14@gmail.com)
 
 </div>
