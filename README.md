@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=4DA3FF&center=true&vCenter=true&width=860&lines=Backend+Engineer+%E2%80%94+Cybersecurity+%E2%80%94+AI+Automation;Building+secure%2C+scalable%2C+production-ready+software." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=4DA3FF&center=true&vCenter=true&width=980&lines=Backend+Engineer+%E2%80%94+Cybersecurity+%E2%80%94+AI+Automation;Building+secure%2C+scalable%2C+production-ready+software." alt="Typing SVG" />
 
 <br/>
 
@@ -9,15 +9,13 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF)](https://hossinzahi.github.io/portfolio/)&nbsp;
-<a href="https://www.linkedin.com/in/hossin-zahi-409975349" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" alt="LinkedIn"/>
-</a>&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge)](https://www.linkedin.com/in/hossin-zahi-409975349)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hossinzahi14@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=HoSsinZahi&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)
 
 <br/>
 
-`Morocco` &nbsp; `Backend Engineer` &nbsp; `Cybersecurity` &nbsp; `AI Automation` &nbsp; `Open to opportunities`
+<sub><code>Morocco</code> &nbsp; <code>Backend Engineer</code> &nbsp; <code>Cybersecurity</code> &nbsp; <code>AI Automation</code> &nbsp; <code>Open to opportunities</code></sub>
 
 </div>
 
