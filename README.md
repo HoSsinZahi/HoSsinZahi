@@ -350,11 +350,21 @@ MA &nbsp;**Arabic** - Native &nbsp;&nbsp;&nbsp;&nbsp; FR &nbsp;**French** - Prof
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF)](https://hossinzahi.github.io/portfolio/)&nbsp;
+<a href="https://hossinzahi.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4DA3FF" alt="Portfolio"/>
+</a>
+
+&nbsp;
+
 <a href="https://www.linkedin.com/in/hossin-zahi-409975349" target="_blank">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" alt="LinkedIn"/>
 </a>
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hossinzahi14@gmail.com)
+
+&nbsp;
+
+<a href="mailto:hossinzahi14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
 
 </div>
 
