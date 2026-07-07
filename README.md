@@ -314,13 +314,13 @@ Maintenance   ->    Monitor, iterate, and harden continuously
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HoSsinZahi&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=HoSsinZahi&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoSsinZahi&theme=github_dark&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HoSsinZahi&theme=github_dark&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=HoSsinZahi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=HoSsinZahi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
